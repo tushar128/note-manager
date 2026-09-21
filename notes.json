@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Meeting Notes",
+    "content": "Discuss project roadmap",
+    "tags": [
+      "work",
+      "urgent"
+    ],
+    "timestamp": "2026-09-21T13:31:48.960899"
+  },
+  {
+    "title": "Shopping List",
+    "content": "Buy milk, eggs, bread",
+    "tags": [
+      "personal"
+    ],
+    "timestamp": "2026-09-21T13:31:48.961140"
+  }
+]
